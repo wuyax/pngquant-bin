@@ -1,5 +1,5 @@
 {
-	"name": "pngquant-bin",
+	"name": "pngquant-bin-chn",
 	"version": "6.0.1",
 	"description": "`pngquant` wrapper that makes it seamlessly available as a local dependency",
 	"license": "GPL-3.0+",
@@ -7,17 +7,12 @@
 	"author": {
 		"name": "Kevin Mårtensson",
 		"email": "kevinmartensson@gmail.com",
-		"url": "github.com/kevva"
+		"url": "https://github.com/kevva"
 	},
 	"maintainers": [
 		{
-			"name": "Sindre Sorhus",
-			"email": "sindresorhus@gmail.com",
-			"url": "sindresorhus.com"
-		},
-		{
-			"name": "Shinnosuke Watanabe",
-			"url": "github.com/shinnn"
+			"name": "wuyax",
+			"url": "https://github.com/wuyax/pngquant-bin"
 		}
 	],
 	"bin": {

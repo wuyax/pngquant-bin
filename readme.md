@@ -1,3 +1,11 @@
+# ⚠️ Warn
+
+This is a branch created for developers who can't access `raw.githubusercontent.com` properly. If you have a good internet connection, we do not recommend using this package.
+
+# config
+
+The default download site is `https://npmmirror.com/mirrors` or set to `https://raw.githubusercontent.com/imagemin` via the environment variable `PNGQUANT_BINARY_SITE`.
+
 # pngquant-bin ![GitHub Actions Status](https://github.com/imagemin/pngquant-bin/workflows/test/badge.svg?branch=master)
 
 > [`pngquant`](https://github.com/kornelski/pngquant) is a PNG compressor that significantly reduces file sizes by converting images to a more efficient 8-bit PNG format
