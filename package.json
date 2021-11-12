@@ -3,7 +3,7 @@
 	"version": "7.0.2",
 	"description": "`pngquant` wrapper that makes it seamlessly available as a local dependency",
 	"license": "GPL-3.0+",
-	"repository": "imagemin/pngquant-bin",
+	"repository": "https://github.com/wuyax/pngquant-bin",
 	"type": "module",
 	"exports": "./index.js",
 	"author": {
@@ -13,6 +13,8 @@
 	},
 	"maintainers": [
 		{
+			"name": "wuyax",
+			"url": "https://github.com/wuyax/pngquant-bin"
 		}
 	],
 	"bin": {
